@@ -7,8 +7,9 @@ Created on Tue Apr 23 11:52:34 2019
 
 @author: liltimmy
 """
-# CTRL+F6 with command line options:
-/f "C:\Users\Administrator\Documents\Python\test\P002.mp4" -s 5 -v libx264
+
+
+#/Users/elise/PycharmProjects/SoundProject/Video_Scrambler.py -f "/Users/elise/Dropbox/My Mac (elises-mbp.lan)/Documents/Python/test/P002.mp4" -s 5 -v libx264
 
 import csv
 import subprocess
